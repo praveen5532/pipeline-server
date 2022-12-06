@@ -3,7 +3,7 @@
 # Declare variables to be passed into your templates.
 
 cpuReplicaCount: 1
-gpuReplicaCount: 1
+gpuReplicaCount: 0
 
 image:
   repository: intel/dlstreamer-pipeline-server
